@@ -1,4 +1,6 @@
-
+/*
+Documentación de distinta molona
+ */
 function distinta(){
     console.log("Distinta");
 }
