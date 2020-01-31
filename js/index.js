@@ -1,4 +1,6 @@
-
+/*
+función distinta
+ */
 function distinta(){
     console.log("Distinta");
 }
