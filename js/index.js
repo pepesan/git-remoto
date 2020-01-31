@@ -1,5 +1,9 @@
 /*
+<<<<<<< HEAD
 función distinta
+=======
+Documentación de distinta molona
+>>>>>>> main
  */
 function distinta(){
     console.log("Distinta");
