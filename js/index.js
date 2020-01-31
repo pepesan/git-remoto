@@ -1,2 +1,4 @@
-
-document.addEventListener("DomContentLoaded", function (){console.log();})
+function init(){
+  console.log();
+}
+document.addEventListener("DomContentLoaded", init);
