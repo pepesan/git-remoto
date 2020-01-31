@@ -1,2 +1,7 @@
-
-document.addEventListener("DomContentLoaded", function (){console.log();})
+function main(){
+    /*
+    función principal del frontend
+     */
+    console.log("Iniciando");
+}
+document.addEventListener("DomContentLoaded", main);
